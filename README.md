@@ -23,9 +23,9 @@ A simple CRUD (Create, Read, Update, Delete) application to manage student recor
 
 ---
 
-![Home Page](images/List_Of_All_Students.png)
+![Home Page](student/student/images/List_Of_All_Students.png)
 
-![Add Student](images/Create_New_student.png)
+![Add Student](student/student/images/Create_New_student.png)
 
-![Update Student](images/Update_Student.png)
+![Update Student](student/student/images/Update_Student.png)
 
